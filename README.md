@@ -69,14 +69,13 @@ regex101（匹配正则表达式） https://regex101.com/
 头歌 https://www.educoder.net/             
 W3school https://www.w3school.com.cn/         
 MDN https://developer.mozilla.org/zh-CN/            
-哔哩哔哩 https://www.bilibili.com/             
-腾讯开发者社区 https://cloud.tencent.com/developer             
+哔哩哔哩 https://www.bilibili.com/                      
 代码随想录 https://www.programmercarl.com/        
      
     
 # 博客
 ## 团队
-美团点评技术团队 https://tech.meituan.com/   
+美团技术团队 https://tech.meituan.com/   
 ## 个人
 白忠建老师的博客 https://baizj.gitee.io/          
 廖雪峰大神的博客 https://www.liaoxuefeng.com/          
