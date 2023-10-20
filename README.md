@@ -1,5 +1,3 @@
-# resource-awesome
-some websites that are really useful 
 > Sorted by Juanry
 # 资源
 阿里巴巴矢量图标库 https://www.iconfont.cn/    
@@ -31,11 +29,13 @@ ElementUI（前端组件库） https://element.eleme.cn/2.13/#/zh-CN
 站酷（各种素材） https://www.zcool.com.cn/            
 编译原理（第2版）（紫龙书）答案 https://github.com/fool2fish/dragon-book-exercise-answers                 
 
+
 # OJ
 力扣 https://leetcode.cn/      
 洛谷 https://www.luogu.com.cn/        
 炼码 https://www.lintcode.com/          
 Virtual Judge https://vjudge.net/             
+
 
 # 工具
 ## chatgpt
@@ -61,7 +61,8 @@ clip-path生成器 https://www.jiangweishan.com/tool/clippy/
 在线抠图 https://tool.lu/cutout/                 
 压缩图片工具 https://tinypng.com/              
 标小智LOGO神器（做图标的） https://www.logosc.cn/           
-regex101（匹配正则表达式） https://regex101.com/                                        
+regex101（匹配正则表达式） https://regex101.com/      
+
 
 # 学习                   
 菜鸟教程 https://www.runoob.com/             
@@ -70,10 +71,17 @@ W3school https://www.w3school.com.cn/
 MDN https://developer.mozilla.org/zh-CN/            
 哔哩哔哩 https://www.bilibili.com/             
 腾讯开发者社区 https://cloud.tencent.com/developer             
-代码随想录 https://www.programmercarl.com/                          
+代码随想录 https://www.programmercarl.com/        
+
+
 # 博客
+## 团队
+美团点评技术团队 https://tech.meituan.com/   
 ## 个人
 白忠建老师的博客 https://baizj.gitee.io/          
 廖雪峰大神的博客 https://www.liaoxuefeng.com/          
 阮一峰的网络日志 https://ruanyifeng.com/blog/                  
                    
+# 社区
+腾讯云开发者社区 https://cloud.tencent.com/developer/column   
+阿里云开发者社区 https://developer.aliyun.com/        
