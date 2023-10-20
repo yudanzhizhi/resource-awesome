@@ -27,7 +27,7 @@ Z-Library（电子书，需魔法） https://cn1lib.is/
                                          https://1lib.tk/          
 ElementUI（前端组件库） https://element.eleme.cn/2.13/#/zh-CN                  
 站酷（各种素材） https://www.zcool.com.cn/            
-编译原理（第2版）（紫龙书）答案 https://github.com/fool2fish/dragon-book-exercise-answers                 
+编译原理（第2版）答案（紫龙书） https://github.com/fool2fish/dragon-book-exercise-answers                 
    
    
 # OJ
@@ -65,7 +65,8 @@ regex101（匹配正则表达式） https://regex101.com/
    
     
 # 学习                   
-菜鸟教程 https://www.runoob.com/             
+菜鸟教程 https://www.runoob.com/        
+Linux命令大全 https://www.runoob.com/linux/linux-command-manual.html       
 头歌 https://www.educoder.net/             
 W3school https://www.w3school.com.cn/         
 MDN https://developer.mozilla.org/zh-CN/            
