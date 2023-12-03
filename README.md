@@ -108,7 +108,7 @@ Z-Library（电子书，需魔法）：
 
 [DeepL](https://www.deepl.com/translator)（翻译）
 
-[超星翻译](https://ss.zhizhen.com/open/bilingual/redirect)（pdf翻译）  
+[超星翻译](https://ss.zhizhen.com/open/bilingual/redirect)（pdf翻译）  // 看外文论文挺好用
 
 ## 找论文
 
